@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>3f0ec01f-f09f-46c5-a676-ea269d057cf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button-assertive.button-extrude.activated.disabled-page</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>28aa24f3-5690-48ff-b2c4-a4242074783d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5022254e-55c9-491c-8e04-c09bdaf1b75e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-assertive button-extrude activated disabled-page</value>
+      <webElementGuid>6cdb20f4-04b7-456a-931d-3abdd979352f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>registerForm.$invalid || !captchaCheck || !isReferralExist
+                                    || !pwdCorrectRegex.password
+                                    || !checkPwd || !statusErrFullName 
+</value>
+      <webElementGuid>1b06f266-6a1b-46f2-9cc1-22abb1488f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>229e12c4-14ff-49f9-b405-4b6c389f009d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ခြင့္ျပဳသည္
+                            </value>
+      <webElementGuid>0aad5a27-a495-43fe-a026-ad5f3ecad430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-mobile&quot;)/div[@class=&quot;register-wrapper&quot;]/form[@class=&quot;ok-yg ng-valid-maxlength ng-dirty ng-valid-parse ng-valid-pattern ng-valid-required ng-valid ng-valid-minlength ng-animate ng-submitted-add&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;button button-assertive button-extrude activated disabled-page&quot;]</value>
+      <webElementGuid>91eeb4a3-238e-4dff-b35b-35c24ad929d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/register/Page_YG168  Best Online Casino In Myanmar/iframe__registerFrame</value>
+      <webElementGuid>410d3721-2faf-4c10-814b-8d279f39e8b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>226562f2-20b4-4cc8-8b73-0c6bfdc9930f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='register-mobile']/div/form/div[10]/button</value>
+      <webElementGuid>a170a7d4-1b09-443d-a076-6265494b1401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral id must be correct and exist'])[1]/following::button[2]</value>
+      <webElementGuid>4abe94df-8226-4f9a-bc17-2c93326a7273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='y1'])[1]/following::button[2]</value>
+      <webElementGuid>2eb7f244-d8ab-4b9e-93ea-db1b8f48df35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[1]/preceding::button[1]</value>
+      <webElementGuid>58023a8a-0ce5-4698-936d-a0ede0eb6da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
+      <webElementGuid>450f880f-8a3f-4215-8f75-e4db07c44e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ခြင့္ျပဳသည္']/parent::*</value>
+      <webElementGuid>9f081a97-5787-4905-a578-8cc31b0e9217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button</value>
+      <webElementGuid>4dfd44d5-3fae-4587-a9d9-250b58ebfbe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'ခြင့္ျပဳသည္
+                            ' or . = 'ခြင့္ျပဳသည္
+                            ')]</value>
+      <webElementGuid>25df1f25-16f6-4265-a8ee-0c5e860d89a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

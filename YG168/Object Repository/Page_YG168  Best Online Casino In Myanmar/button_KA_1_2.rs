@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_KA_1_2</name>
+   <tag></tag>
+   <elementGuidId>4dea761b-94c6-4afd-9ecd-05765e88080c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b982c899-a240-4092-a035-5ba4155bd69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3d4c3f90-5d4d-4b20-8855-bf82bf6b893f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>sort in sortCasino | orderBy:'order'</value>
+      <webElementGuid>15120d28-6d7b-48c9-9d7e-4ecdce4db861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ 'active': sort.tab }</value>
+      <webElementGuid>4d35fa7a-ef7e-4229-b187-856a3090a288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>486086a1-8ddc-406e-8693-7ecccbaaa2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>gamesConsoleManager.activeSubTabLiveCasino(sort.name)</value>
+      <webElementGuid>3665f5ae-6e1a-4bac-9094-6d82d3238c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>sort.enabled</value>
+      <webElementGuid>33d6400e-1bd7-43b0-8df6-92ed3c470d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-scroll-to</name>
+      <type>Main</type>
+      <value>.game-tabs-container</value>
+      <webElementGuid>bd467ec6-8517-4fac-bc37-f8364ddd4104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>6961a6b0-6d2e-453f-a509-a55d52a9ffc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>692b0a55-fd34-4596-bbfc-a3cccc67fd34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                         
+                    
+                        KA
+                </value>
+      <webElementGuid>bbb336b5-502c-475a-bb7b-4c357a81e1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-games-tabs&quot;)/div[@class=&quot;game-tabs-container&quot;]/div[@class=&quot;tab-content&quot;]/div[@id=&quot;live-casino-game&quot;]/div[@id=&quot;live-casino-game&quot;]/div[@class=&quot;col-xs-12 no-padding live-casino-bg&quot;]/div[@class=&quot;container-layout-game&quot;]/div[@class=&quot;tab-select-game-hall&quot;]/button[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>8e4039c0-bcb2-4307-82d3-8ddf8d676bd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>0d7b7c82-f6de-4653-a0bd-521b8609079f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='live-casino-game']/div/div/div/button[3]</value>
+      <webElementGuid>0eb18259-afd8-422d-b141-2283d8a3ad5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/div/div/button[3]</value>
+      <webElementGuid>e5df27b7-a1da-4f7d-b91b-c77737229e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                         
+                    
+                        KA
+                ' or . = '
+                         
+                    
+                        KA
+                ')]</value>
+      <webElementGuid>9c81446f-3d84-453d-8c12-bc0351c61e78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>03-Check game not login</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>be914e28-12a3-43b0-9d8e-d65daba08ec4</testCaseGuid>
-</TestCaseEntity>

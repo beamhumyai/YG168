@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_HRG</name>
+   <tag></tag>
+   <elementGuidId>46b7e500-46fa-4cdc-9d8a-1ec06d2a16a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>de838e22-3212-4b43-a993-83cf941ce263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c6a6db9-fb9e-4375-abbd-1a5506e4b16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>sort in sortCasino | orderBy:'order'</value>
+      <webElementGuid>4d240632-ae26-4ba4-8c59-72832966f8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ 'active': sort.tab }</value>
+      <webElementGuid>e5fd270d-8a1d-4e80-b4fb-fd2d8dc9ecda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>29ca7253-e238-4c8b-ae71-1ac7e80f4bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>gamesConsoleManager.activeSubTabLiveCasino(sort.name)</value>
+      <webElementGuid>248cd8a3-01da-4aeb-9463-7255d12ce463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>sort.enabled</value>
+      <webElementGuid>46ba9b10-6327-44e7-adf3-0a9bea811513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-scroll-to</name>
+      <type>Main</type>
+      <value>.game-tabs-container</value>
+      <webElementGuid>d352c1a4-8af5-44a6-9cd8-8f75222d5ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>2784ace2-2b56-4a6a-989d-e999246b2f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>da79f0f0-2da0-4491-b054-98fcb1468cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                         
+                    
+                        HRG
+                </value>
+      <webElementGuid>16a6f0d5-e7df-4013-b49f-00b0d4c6f7ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-games-tabs&quot;)/div[@class=&quot;game-tabs-container&quot;]/div[@class=&quot;tab-content&quot;]/div[@id=&quot;live-casino-game&quot;]/div[@id=&quot;live-casino-game&quot;]/div[@class=&quot;col-xs-12 no-padding live-casino-bg&quot;]/div[@class=&quot;container-layout-game&quot;]/div[@class=&quot;tab-select-game-hall&quot;]/button[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>a688e527-ed2f-4476-860f-e32900cfb30b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>db792c02-cc94-4382-8829-ce1977ea48d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='live-casino-game']/div/div/div/button[6]</value>
+      <webElementGuid>86a2a125-1b9c-4029-b03f-58d9d54171a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ဂိမ္းကစားရန္'])[252]/preceding::button[1]</value>
+      <webElementGuid>821f1219-a231-41fd-9210-6d7dcd8f83f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='အစမ္းေဆာ့ရန္'])[252]/preceding::button[2]</value>
+      <webElementGuid>37ae008b-1e07-4db4-a64f-7ee750f26927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HRG']/parent::*</value>
+      <webElementGuid>9eb9efb7-5bf3-4d9e-8970-110a0838f028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[6]</value>
+      <webElementGuid>b721a0a4-6d4d-4aab-98a0-f3b47e30a91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                         
+                    
+                        HRG
+                ' or . = '
+                         
+                    
+                        HRG
+                ')]</value>
+      <webElementGuid>f28e475c-3b4a-47e7-aa55-ef04d0046e0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

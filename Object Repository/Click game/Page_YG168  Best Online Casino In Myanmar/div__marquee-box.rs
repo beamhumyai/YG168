@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__marquee-box</name>
+   <tag></tag>
+   <elementGuidId>57fc288e-f5d2-49e5-bc21-6054d371ceb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jackpot-mobile']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.marquee-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>393d6b33-54d1-42e6-95e8-a4bcf427ad8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>marquee-box</value>
+      <webElementGuid>6fbce35b-e57a-4846-814a-baa97259f00f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jackpot-mobile&quot;)/div[@class=&quot;col-md-4 col-xs-12 no-padding marquee-wrapper&quot;]/div[@class=&quot;marquee-box&quot;]</value>
+      <webElementGuid>3bebb331-a6e7-4a96-8dad-5156f1f91786</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jackpot-mobile']/div/div</value>
+      <webElementGuid>bb2bc507-325e-487c-8ea2-6ce7f6e3b33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ေလာ့အင္'])[2]/following::div[6]</value>
+      <webElementGuid>5dc8e376-f296-4130-8879-6928836d5a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ကြ ်နု္ပ္တုိ ့ႏွင့္ဆက္သြယ္ရန္'])[1]/following::div[9]</value>
+      <webElementGuid>d6c38c47-ce47-4c92-a079-485eba44cb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ယေန ့အနုိင္ရသူ'])[1]/preceding::div[16]</value>
+      <webElementGuid>80a0ca61-da81-4d3b-a0ca-36a4cd98c991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FC'])[1]/preceding::div[17]</value>
+      <webElementGuid>3b839a64-2c54-4867-9829-d1252e73a363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/div/div/div/div</value>
+      <webElementGuid>1d11966b-18bd-4787-93bc-67e3af2db1e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

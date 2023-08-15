@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SEXY</name>
+   <tag></tag>
+   <elementGuidId>f82c98b0-91b3-4e30-a367-ca3dd2e8f358</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bbfba138-a6e1-4856-8d2f-534f59e9155b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc88cc8e-e781-41d4-bc0b-894d57f01d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>sort in sortCasino | orderBy:'order'</value>
+      <webElementGuid>a2e4fbf4-586c-4940-b8d2-b1c3f12ea103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ 'active': sort.tab }</value>
+      <webElementGuid>9c7753aa-30cf-4c4d-9de6-75140252cb0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>07641179-db45-4bcb-9dae-8c440e784392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>gamesConsoleManager.activeSubTabLiveCasino(sort.name)</value>
+      <webElementGuid>c4eb1251-5185-4653-817a-d36f0e981e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>sort.enabled</value>
+      <webElementGuid>be4db85d-d9f5-418d-bab8-c0c533554942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-scroll-to</name>
+      <type>Main</type>
+      <value>.game-tabs-container</value>
+      <webElementGuid>b76df55b-49f9-42d7-bdfc-e05729ecd810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>b5f9cee4-082a-4c03-b949-84bbe0a2e43a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>97f391f4-94e6-4af0-952f-fb1eb8604f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                         
+                    
+                        SEXY
+                </value>
+      <webElementGuid>3ef18add-8ac9-4a4b-84ad-5553a28f3220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-games-tabs&quot;)/div[@class=&quot;game-tabs-container highlight-game&quot;]/div[@class=&quot;tab-content&quot;]/div[@id=&quot;live-casino-game&quot;]/div[@id=&quot;live-casino-game&quot;]/div[@class=&quot;col-xs-12 no-padding live-casino-bg&quot;]/div[@class=&quot;container-layout-game&quot;]/div[@class=&quot;tab-select-game-hall&quot;]/button[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>8a7bfd01-80be-4ca7-91ac-7335fc04a147</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>b7a947c8-80e9-4cb0-9a73-241659c0a66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='live-casino-game']/div/div/div/button</value>
+      <webElementGuid>6be73d3d-859b-4ac2-908b-36db8b5ae137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black Jack'])[1]/following::button[1]</value>
+      <webElementGuid>81d614c3-65c1-4266-8e48-082bade09a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SEXY']/parent::*</value>
+      <webElementGuid>3f33f950-87c1-4cc1-8e97-f4469a9d465f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/div/div/button</value>
+      <webElementGuid>bb5e0fc1-48fd-45d2-9f0a-fd89c3b574bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                         
+                    
+                        SEXY
+                ' or . = '
+                         
+                    
+                        SEXY
+                ')]</value>
+      <webElementGuid>176ebe41-0920-4e16-b39b-ac8cb2feccda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

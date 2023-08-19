@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\Beam\\AppData\\Local\\Temp\\Katalon\\Test Cases\\01-Open website\\20230819_162051\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\Beam\\AppData\\Local\\Temp\\Katalon\\20230819_165346\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/01-Open website', new TestCaseBinding('Test Cases/01-Open website',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('', new TestCaseBinding('',[:]), FailureHandling.STOP_ON_FAILURE , false)
     

@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://yg168.online/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Click game/Page_YG168  Best Online Casino In Myanmar/button_JILI'))
 
 WebUI.click(findTestObject('Object Repository/Click game/Page_YG168  Best Online Casino In Myanmar/img'))
@@ -48,4 +50,6 @@ WebUI.click(findTestObject('Object Repository/Click game/Page_YG168  Best Online
 WebUI.click(findTestObject('Object Repository/Click game/Page_YG168  Best Online Casino In Myanmar/button_SEXY'))
 
 WebUI.click(findTestObject('Object Repository/Click game/Page_YG168  Best Online Casino In Myanmar/button_HRG'))
+
+WebUI.closeBrowser()
 

@@ -21,9 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://yg168.online/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/register/Page_YG168  Best Online Casino In Myanmar/a_'))
 
-WebUI.setText(findTestObject('Object Repository/register/Page_YG168  Best Online Casino In Myanmar/input__user_id'), 'nct002')
+WebUI.setText(findTestObject('Object Repository/register/Page_YG168  Best Online Casino In Myanmar/input__user_id'), 'nct001')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/register/Page_YG168  Best Online Casino In Myanmar/input__password'), 
     'vYld9WTXuBj5x/d5Ggu7vQ==')

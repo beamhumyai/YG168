@@ -21,3 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://yg168.online/')
 
+WebUI.maximizeWindow()
+
+WebUI.closeBrowser()
+
